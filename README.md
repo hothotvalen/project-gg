@@ -1,2 +1,2 @@
 # project-gg
-Medicine dose tracker web app 
+Medicine dose tracker app 
